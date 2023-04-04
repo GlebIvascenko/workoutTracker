@@ -17,7 +17,7 @@ headers = {
     'x-app-key': API_KEY,
 }
 bearer_headers = {
-    'Authorization': "Bearer dsfidbiuhUHKMGGMFDKSFSYGMKLlmgygsdklufhvmlvn32m4fmdufhmei2",
+    'Authorization': YOUR_TOKEN,
 }
 
 
